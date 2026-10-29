@@ -22,5 +22,5 @@
     "erasableSyntaxOnly": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["*.ts", "*.tsx"]
+  "include": ["App.tsx", "main.tsx", "api.ts", "Jobs.tsx", "Practice.tsx", "Progress.tsx", "Login.tsx"]
 }
