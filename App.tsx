@@ -11,10 +11,12 @@ import {
   type Student,
 } from './api'
 
-import Jobs from './pages/Jobs'
-import Practice from './pages/Practice'
-import Progress from './pages/Progress'
-import Login from "./pages/Login";
+
+import Jobs from './Jobs'
+import Practice from './Practice'
+import Progress from './Progress'
+import Login from './Login'
+
 
 const features = [
   {
