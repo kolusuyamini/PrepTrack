@@ -1,7 +1,7 @@
 
 import { Router } from 'express'
 import mongoose from 'mongoose'
-import Student from './models/Student'
+import Student from './models/Student.ts'
 
 const router = Router()
 
